@@ -1,0 +1,11 @@
+﻿{
+    "displayOrder":  5,
+    "title":  {
+                  "en":  "Booki company website mockup",
+                  "fr":  "Site maquette pour l\u0027entreprise Booki"
+              },
+    "technologies":  [
+                         "HTML",
+                         "CSS"
+                     ]
+}
